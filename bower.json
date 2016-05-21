@@ -1,0 +1,31 @@
+{
+  "name": "bookclubminder_v0",
+  "description": "web app to help people manage their book clubs",
+  "main": "",
+  "authors": [
+    "Ellen Sullivan <ellen.r.sullivan@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "book",
+    "club",
+    "user",
+    "manager",
+    "minder",
+    "members"
+  ],
+  "homepage": "https://github.com/protobox/protobox",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+ "dependencies": {
+    "bootstrap": "~3.3.2",
+    "bootstrap-select": "~1.6.4",
+    "font-awesome": "~4.3.0"
+  }
+}

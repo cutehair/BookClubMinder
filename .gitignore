@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+.gitattributes
+.idea/
+.vagrant/
+Vagrantfile
+artisan
+/config
+/bower_components
