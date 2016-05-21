@@ -1,4 +1,12 @@
-# Laravel PHP Framework
+# BookClubMinder
+
+A work in progress
+
+This is a project to play with Laravel 5.2, PHP 7, and other goodies. The app will allow one to manage the members, books, and meetings of one or more book clubs.
+
+## Included for info about Laravel
+
+## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
